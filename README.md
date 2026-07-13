@@ -1,6 +1,6 @@
 # Iris Flower Classifier API & Web UI
 
-[cite_start]A streamlined MLOps pipeline that trains a Random Forest model using scikit-learn, wraps it in a Flask web API, and containerizes the entire environment with Docker[cite: 1, 2]. It includes an elegant front-end interface built with Tailwind CSS for making real-time interactive predictions.
+A streamlined MLOps pipeline that trains a Random Forest model using scikit-learn, wraps it in a Flask web API, and containerizes the entire environment with Docker. It includes an elegant front-end interface built with Tailwind CSS for making real-time interactive predictions.
 
 ## Developer Info
 * **Name:** Deepti Gupta
